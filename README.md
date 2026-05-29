@@ -6,6 +6,7 @@ This repository showcases a high-quality vector mapping workflow for Tenerife, s
 
 ## Project Preview
 ![Tenerife Urban Map](Tenerife_Street_Map.png)
+🛒 [Get the full high-quality GIS bundle on Payhip](https://payhip.com/b/rlnSR)
 
 ## Repository Structure
 ```text
@@ -18,4 +19,4 @@ Vector Source: OpenStreetMap (OSM) via QuickOSM
 Features: Full Highway Matrix, Aerodrome Points, Volcanic Point Elements
 
 Project CRS: EPSG:32628 (WGS 84 / UTM zone 28N)
-🛒 [Get the full high-quality GIS bundle on Payhip](https://payhip.com/b/rlnSR)
+
